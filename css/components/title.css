@@ -1,23 +1,22 @@
 .title {
+    display: inline-block;
     text-align: center;
     font-family: "Press Start 2P", system-ui;
     background-color: #C9D6DF;
-    width: 39.18rem;
-    height: 11.5rem;
     box-shadow: 0.45rem 0.45rem 0 #1E2022;
     margin: 11.81rem 5.68rem 2.37rem;
-    padding-top: 2.63rem;
+    padding: 2.63rem 2.75rem;
 }
 
-.title > h1 {
+.title h1 {
     text-shadow: black 0.25rem 0.25rem;
     color: #FFFFFF;
-    font-size: 2.5rem;
+    font-size: 2.0rem;
     margin-bottom: 1.68rem;
 }
 
-.title > h3 {
+.title h3 {
     text-shadow: black 0.25rem 0.25rem;
     color: #52616B;
-    font-size: 1.70rem;
+    font-size: 1.60rem;
 }   
