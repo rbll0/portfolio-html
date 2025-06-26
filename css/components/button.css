@@ -1,0 +1,40 @@
+.button {
+    display: inline-block;
+    background-color: #1E2022;
+    color: #FFFFFF;
+    box-shadow: 0.31rem 0.31rem 0 #52616B;
+    padding: 1.12rem 1.25rem;
+    margin-right: 0;
+    cursor: pointer;
+    transition: transform 100ms linear;
+    font-size: 1.25rem;
+    text-decoration: none;
+}
+
+.button:hover {
+    transform: scale(1.08);
+    background: #52616B;
+    box-shadow: 0.31rem 0.31rem 0 #1E2022;
+}
+
+
+.button-secondary  {
+    display: inline-block;
+    background-color: #52616B;
+    color: #FFFFFF;
+    box-shadow: 0.31rem 0.31rem 0 #1E2022;
+    padding: 1.06rem 1.25rem;
+    cursor: pointer;
+    transition: transform 100ms linear;
+    text-decoration: none;
+}
+
+.button-secondary:hover {
+    transform: scale(1.08);
+    background: #1E2022;
+    box-shadow: 0.31rem 0.31rem 0 #52616B;
+}
+
+.button-secondary a {
+    font-size: 1.25rem;
+}
