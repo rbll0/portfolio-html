@@ -1,7 +1,6 @@
 .box-container {
     display: inline-block;
     text-align: center;
-    font-family: "Press Start 2P", system-ui;
     background-color: #C9D6DF;
     box-shadow: 0.45rem 0.45rem 0 #1E2022;
     margin: 11.81rem 5.68rem 2.37rem;
@@ -21,3 +20,4 @@
     height: 35rem;
     border-radius: 1rem;
 }
+
