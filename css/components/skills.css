@@ -4,12 +4,7 @@
     border-bottom: 0.65rem solid #52616B;
 }
 
-.wrapper-title {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 3.06rem 0 3.75rem;
-}
+
 
 .wrapper-skills {
     display: grid;
