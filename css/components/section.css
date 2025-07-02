@@ -1,4 +1,4 @@
-.hero-section {
+.section {
     height: 50rem;            
     background: linear-gradient(90deg,rgba(58, 64, 66, 1) 0%, rgba(90, 42, 42, 1) 100%);
     display: flex;            
@@ -9,5 +9,13 @@
 .hero-container {
     display: flex;
     gap: 20rem;
+}
+
+.section.skills {
+    background: #1E2022;
+    height: 46.25rem;
+    border-bottom: 0.65rem solid #52616B;
+    padding-top: 3.12rem;
+    padding-bottom: 6.25rem;
 }
 

@@ -1,17 +1,10 @@
-.skills-section {
-    background: #1E2022;
-    height: 46.25rem;
-    border-bottom: 0.65rem solid #52616B;
-}
-
-
-
 .wrapper-skills {
     display: grid;
     grid-template-columns: 1fr 1fr; 
     gap: 2.37rem 3.62rem;
     width: 70rem;
     margin: 0 auto;
+    padding-top: 3.75rem;
 }   
 
 .skill {
