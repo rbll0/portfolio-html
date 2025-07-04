@@ -1,0 +1,13 @@
+.project-card {
+    height: 17.5rem;
+    width: 17.5rem;
+    background: #52616B;
+    display: flex;
+    justify-content: center;
+    padding: 1.06rem 2.18rem;
+    box-shadow: 0.6rem 0.6rem 0 #FFFF;
+}
+
+.project-card.second {
+    background-color: #4C5B84;
+}

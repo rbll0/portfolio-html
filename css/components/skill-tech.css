@@ -1,0 +1,8 @@
+.skill-tech {
+    display: flex;
+    align-items: flex-end;
+}
+
+.skill-tech img {
+    margin-right: 1rem;
+}

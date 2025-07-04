@@ -7,20 +7,10 @@
     padding-top: 3.75rem;
 }   
 
-.skill {
-    display: flex;
-    align-items: flex-end;
-}
-
-.skill img {
-    margin-right: 1rem;
-}
-
 .text-skill {
     display: flex;
     flex-direction: column;
 }
-
 
 .text-skill h3 {
     font-family: "Press Start 2P", system-ui;

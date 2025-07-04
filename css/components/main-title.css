@@ -1,17 +1,24 @@
-.title {
+.main-title {
     text-shadow: black 0.25rem 0.25rem;
     font-family: "Press Start 2P", system-ui;
     color: #FFFFFF;
     font-size: 2.0rem;
 }
 
-.title-button {
+.button-box {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
 }
 
-.title.second {
+.main-title.second {
     text-shadow: none;
     text-align: center;
+}
+
+.main-title.projects {
+    text-shadow: none;
+    text-align: center;
+    color: #000;
+    font-size: 2.5rem;
 }
